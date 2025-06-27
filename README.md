@@ -26,7 +26,7 @@ También disfruto del trabajo en equipo, compartir conocimiento y aprender conti
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,ts,react,mysql,postgresql,mongo,git,github,bitbucket,docker,materialui,postman,vscode&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,spring,py,ts,react,mysql,postgresql,mongo,cassandra,git,github,bitbucket,docker,materialui,npm,yarn,postman,vscode&perline=12" />
   </a>
 </p>
 <h2>GitHub :octocat:</h2>
