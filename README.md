@@ -29,7 +29,7 @@ También disfruto del trabajo en equipo, compartir conocimiento y aprender conti
     <img src="https://skillicons.dev/icons?i=java,spring,py,ts,react,mysql,postgresql,mongo,cassandra,git,github,bitbucket,docker,materialui,npm,yarn,postman,vscode&perline=12" />
   </a>
 </p>
-<h2>GitHub :octocat:</h2>
+<h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>GitHub :octocat:</b></i></h2>
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -54,7 +54,7 @@ También disfruto del trabajo en equipo, compartir conocimiento y aprender conti
 <!--- trophy (start) -->
 <div align=left>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=sebas679og&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=sebas679og&theme=gruvbox&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (start) -->
