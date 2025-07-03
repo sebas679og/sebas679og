@@ -18,6 +18,7 @@ A lo largo de mi carrera, he trabajado con una variedad de tecnologías, framewo
 También disfruto del trabajo en equipo, compartir conocimiento y aprender continuamente en un panorama tecnológico que evoluciona cada día.
 
 📫 Contacto: **<sebastianorjuelagiraldo@gmail.com>**
+
 💼 Portafolio web **<https://sebasorjuela.dev/>**
 <!--Intro end-->
   </p>
