@@ -19,7 +19,7 @@ También disfruto del trabajo en equipo, compartir conocimiento y aprender conti
 
 📫 Contacto: **<sebastianorjuelagiraldo@gmail.com>**
 
-💼 Portafolio web **<https://sebasorjuela.dev/>**
+💼 Portafolio web: **<https://sebasorjuela.dev/>**
 <!--Intro end-->
   </p>
 <br>
