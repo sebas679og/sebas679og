@@ -45,9 +45,7 @@ También disfruto del trabajo en equipo, compartir conocimiento y aprender conti
 </td>
 
 <td width="40%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sebas679og&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
+     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sebas679og&layout=compact&langs_count=8&theme=dark"/>
   </td>
 </tr>
 </table>
@@ -55,10 +53,11 @@ También disfruto del trabajo en equipo, compartir conocimiento y aprender conti
 
 <!--- trophy (start) -->
 <div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=sebas679og&theme=gruvbox&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
 </div>
+
 <!--- trophy (start) -->
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=sebas679og&theme=high-contrast&hide_border=true&area=true&point=00FF00)
 
 </p>
