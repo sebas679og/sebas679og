@@ -9,7 +9,7 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 ANALISTA Y DESARROLLADOR DE SOFTWARE
+🎓 ANALISTA Y DESARROLLADOR DE SOFTWARE JUNIOR
 
 Soy un desarrollador de software con enfoque principal en desarrollo backend, aunque también tengo experiencia en frontend. Me apasiona construir soluciones eficientes, escalables y bien estructuradas, siempre prestando mucha atención a la calidad del código y el rendimiento de las aplicaciones.
 
