@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  soy Sebastian / sebas679og ✨ </h1>
+<h1 align="center">Hi 👋, I'm Sebastian. / sebas679og ✨ </h1>
 
 <p align="left">
     <a href="https://linkedin.com/in/sebas679og" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sebas679og"/></a>
@@ -9,17 +9,17 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 ANALISTA Y DESARROLLADOR DE SOFTWARE JUNIOR
+🎓 JUNIOR SOFTWARE ANALYST AND DEVELOPER
 
-Soy un desarrollador de software con enfoque principal en desarrollo backend, aunque también tengo experiencia en frontend. Me apasiona construir soluciones eficientes, escalables y bien estructuradas, siempre prestando mucha atención a la calidad del código y el rendimiento de las aplicaciones.
+I am a software developer with a primary focus on backend development, although I also have experience in frontend. I am passionate about building efficient, scalable, and well-structured solutions, always paying close attention to code quality and application performance.
 
-A lo largo de mi carrera, he trabajado con una variedad de tecnologías, frameworks y bases de datos, resolviendo problemas complejos tanto en entornos colaborativos como de forma independiente. Disfruto entender profundamente los procesos detrás de cada sistema y contribuir con soluciones que realmente marcan la diferencia.
+Throughout my career, I have worked with a variety of technologies, frameworks, and databases, solving complex problems both in collaborative environments and independently. I enjoy deeply understanding the processes behind each system and contributing solutions that truly make a difference.
 
-También disfruto del trabajo en equipo, compartir conocimiento y aprender continuamente en un panorama tecnológico que evoluciona cada día.
+I also enjoy teamwork, sharing knowledge, and continuously learning in a technological landscape that evolves every day.
 
-📫 Contacto: **<sebastianorjuelagiraldo@gmail.com>**
+📫 Contact: **<sebastianorjuelagiraldo@gmail.com>**
 
-💼 Portafolio web: **<https://sebasorjuela.dev/>**
+💼 Web portfolio: **<https://sebasorjuela.dev/>**
 <!--Intro end-->
   </p>
 <br>
@@ -28,7 +28,7 @@ También disfruto del trabajo en equipo, compartir conocimiento y aprender conti
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,py,ts,react,mysql,postgresql,mongo,cassandra,git,github,bitbucket,docker,materialui,npm,yarn,postman,vscode&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,postgresql,mongo,git,github,docker,postman&perline=12" />
   </a>
 </p>
 <h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>GitHub :octocat:</b></i></h2>
