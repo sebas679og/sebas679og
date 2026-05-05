@@ -28,7 +28,7 @@ I also enjoy teamwork, sharing knowledge, and continuously learning in a technol
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,postgresql,mongo,git,github,docker,postman&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,postgresql,mysql,mongo,git,github,docker,postman&perline=12" />
   </a>
 </p>
 <h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>GitHub :octocat:</b></i></h2>
