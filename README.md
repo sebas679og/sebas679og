@@ -43,9 +43,9 @@ Backend microservices-based banking system built with Java Spring Boot.
 ### ⚽ SportsPulse API
 Collaborative REST API project for sports management and tracking.
 
-**Tech Stack:** Java, Spring Boot, PostgreSQL, Docker, Scrum
+**Tech Stack:** Java, Spring Boot Web Flux, PostgreSQL, Docker, Scrum
 
-🔗 https://github.com/sebas679og/Equipo03-SportsPulseMS
+🔗 https://github.com/sebas679og/SportsPulseMS
 
 ---
 
