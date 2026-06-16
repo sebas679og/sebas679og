@@ -36,7 +36,7 @@ Backend microservices-based banking system built with Java Spring Boot.
 
 **Tech Stack:** Java, Spring Boot, PostgreSQL, Docker, REST APIs, Microservices
 
-🔗 https://github.com/sebas679og/bankcore-system
+🔗 [https://github.com/sebas679og/bankcore-system](https://github.com/sebas679og/bankcore-system)
 
 ---
 
@@ -45,7 +45,7 @@ Collaborative REST API project for sports management and tracking.
 
 **Tech Stack:** Java, Spring Boot Web Flux, PostgreSQL, Docker, Scrum
 
-🔗 https://github.com/sebas679og/SportsPulseMS
+🔗 [https://github.com/sebas679og/SportsPulseMS](https://github.com/sebas679og/Equipo03-SportsPulseMS)
 
 ---
 
@@ -63,7 +63,7 @@ REST API for planning and tracking public transportation routes in Switzerland, 
 
 **Tech Stack:** Java 21, Spring Boot 3, PostgreSQL, Spring Data JPA, WebClient, Docker, Maven, REST APIs
 
-🔗 https://github.com/sebas679og/swissroute-api
+🔗 [https://github.com/sebas679og/swissroute-api](https://github.com/sebas679og/swissroute-api)
 
 ---
 
@@ -72,7 +72,7 @@ Concurrent Python solution for reconstructing messages from distributed HTTP end
 
 **Tech Stack:** Python, AsyncIO, aiohttp, Concurrency, REST APIs
 
-🔗 https://github.com/sebas679og/puzzle-decoder
+🔗 [https://github.com/sebas679og/puzzle-decoder](https://github.com/sebas679og/puzzle-decoder)
 
 ---
 
