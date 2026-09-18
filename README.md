@@ -112,14 +112,6 @@ Concurrent Python solution for reconstructing messages from distributed HTTP end
      src="https://github-readme-streak-stats.herokuapp.com/?user=sebas679og&theme=dark&hide_border=false" />
 </p>
 
-<p align="center">
-   <img align="center" 
-       width=84% 
-       src="https://github-profile-trophy.vercel.app/?username=sebas679og&theme=gruvbox&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-</p>
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=sebas679og&theme=high-contrast&hide_border=true&area=true&point=00FF00)
-
 ---
 
 ## 🤝 Connect With Me
