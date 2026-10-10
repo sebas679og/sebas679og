@@ -14,7 +14,7 @@
 
 ## 👨🏻‍💻 About Me
 
-🎓 Junior Backend Java Developer
+🎓 Junior Backend Java Developer | Computer Engineering student at Universidad de Caldas
 
 Passionate about backend development and building scalable applications using Java and Spring Boot.
 
@@ -24,55 +24,9 @@ I have worked on collaborative projects following agile methodologies and versio
 
 - 📫 Contact: **sebastianorjuelagiraldo@gmail.com**
 - 💼 Portfolio: **https://sebasorjuela.dev**
+- 🎓 Studying: **Computer Engineering at Universidad de Caldas**
 - 🌱 Currently learning: **Microservices Architecture, CI/CD, Cloud & Software Architecture**
 - ⚡ Interested in: **Backend Development, Distributed Systems & Scalable Applications**
-
----
-
-## 🚀 Featured Projects
-
-### 🏦 BankCore System
-Backend microservices-based banking system built with Java Spring Boot.
-
-**Tech Stack:** Java, Spring Boot, PostgreSQL, Docker, REST APIs, Microservices
-
-🔗 [https://github.com/sebas679og/bankcore-system](https://github.com/sebas679og/bankcore-system)
-
----
-
-### ⚽ SportsPulse API
-Collaborative REST API project for sports management and tracking.
-
-**Tech Stack:** Java, Spring Boot Web Flux, PostgreSQL, Docker, Scrum
-
-🔗 [https://github.com/sebas679og/SportsPulseMS](https://github.com/sebas679og/Equipo03-SportsPulseMS)
-
----
-
-### 🚆 SwissRoute API
-REST API for planning and tracking public transportation routes in Switzerland, built with Java and Spring Boot. The project integrates with the Swiss Public Transport API to provide real-time station search, transport connections, station boards, favorite routes, and search history management.
-
-**Key Features:**
-- External API integration using WebClient
-- RESTful APIs with layered architecture
-- PostgreSQL persistence with Spring Data JPA
-- Favorite routes and stations management
-- Search history tracking
-- DTOs, validations, exception handling, and clean architecture
-- Swagger/OpenAPI documentation
-
-**Tech Stack:** Java 21, Spring Boot 3, PostgreSQL, Spring Data JPA, WebClient, Docker, Maven, REST APIs
-
-🔗 [https://github.com/sebas679og/swissroute-api](https://github.com/sebas679og/swissroute-api)
-
----
-
-### 🧩 Puzzle Decoder Race
-Concurrent Python solution for reconstructing messages from distributed HTTP endpoints.
-
-**Tech Stack:** Python, AsyncIO, aiohttp, Concurrency, REST APIs
-
-🔗 [https://github.com/sebas679og/puzzle-decoder](https://github.com/sebas679og/puzzle-decoder)
 
 ---
 
